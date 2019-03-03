@@ -1,0 +1,2 @@
+There are also various other functions that help to manipulate the files and its contents. One 
+can explore various other functions in Python Docs.
